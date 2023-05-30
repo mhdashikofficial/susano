@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Location Permission</title>
+  <style>
+    body {
+      text-align: center;
+      margin-top: 200px;
+      font-family: Arial, sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <h1>Please allow location permission to continue</h1>
+  <button id="allowButton">Allow</button>
+
+  <script src="script.js"></script>
+</body>
+</html>
